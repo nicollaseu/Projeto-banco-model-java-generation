@@ -1,0 +1,15 @@
+
+L	java:S106>"+Replace this use of System.out by a logger.(È¤¹ÿÿÿÿÿ8 ãçå€2
+Y
+java:S1117N"7Rename "tipo" which hides the field declared at line 7.(É£›¥ÿÿÿÿÿ8¬ãçå€2
+m
+java:S1301P"KReplace this "switch" statement by "if" statements to increase readability.(Ù„Šùúÿÿÿÿ8°ãçå€2
+C	java:S131P""Add a default case to this switch.(Ù„Šùúÿÿÿÿ8¶ãçå€2
+L	java:S106Y"+Replace this use of System.out by a logger.(Ûœ£ıÿÿÿÿ8»ãçå€2
+G	java:S106Z"+Replace this use of System.out by a logger.(³º¨8»ãçå€2
+G	java:S106["+Replace this use of System.out by a logger.(Äß½¹8¾ãçå€2
+L	java:S106\"+Replace this use of System.out by a logger.(Šë´İıÿÿÿÿ8¿ãçå€2
+G	java:S106]"+Replace this use of System.out by a logger.(è·È8Áãçå€2
+G	java:S106^"+Replace this use of System.out by a logger.(Şüé‡8Ããçå€2
+L	java:S106_"+Replace this use of System.out by a logger.(Ïùûşşÿÿÿÿ8Äãçå€2
+L	java:S106`"+Replace this use of System.out by a logger.(ñ‘Ğ°úÿÿÿÿ8Äãçå€2
