@@ -5,7 +5,7 @@ import conta.util.Cores;
 
 public class Menu {
     public static void main(String[] args) {
-        Conta c1 = new Conta(1, 123, 1, "Adriana", 10000.0f);
+        Conta c1 = new Conta(1, 1000, 3, "Aya", 10000.0f);
         c1.visualizar();
         c1.sacar(12000.0f);
         c1.visualizar();
@@ -42,7 +42,7 @@ public class Menu {
             opcao = leia.nextInt();
 
             if (opcao == 9) {
-                System.out.println(Cores.TEXT_PURPLE_BOLD + "\nBanco Solidez - O seu investimento começa aqui!");
+                System.out.println(Cores.TEXT_PURPLE + "\nBanco Solidez - O seu investimento começa aqui!");
                 sobre();
                 leia.close();
                 System.exit(0);
